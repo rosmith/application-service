@@ -25,9 +25,10 @@
 		</developer>
 	</developers>
 	<scm>
-		<connection>scm:git:git@github.com/rosmith/application-service.git</connection>
+		<url>http://github.com/rosmith/application-service</url>
+		<connection>scm:git:git//github.com/rosmith/application-service.git</connection>
 		<developerConnection>scm:git:git@github.com:rosmith/application-service.git</developerConnection>
-		<url>http://github.com/rosmith/application-service.git</url>
+		<tag>application-service-1.5</tag>
 	</scm>
 
 	<properties>
