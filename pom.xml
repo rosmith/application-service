@@ -28,7 +28,6 @@
 		<url>http://github.com/rosmith/application-service</url>
 		<connection>scm:git:git//github.com/rosmith/application-service.git</connection>
 		<developerConnection>scm:git:git@github.com:rosmith/application-service.git</developerConnection>
-		<tag>application-service-1.5</tag>
 	</scm>
 
 	<properties>
