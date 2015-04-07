@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.module.application.service</groupId>
 	<artifactId>application-service</artifactId>
-	<version>1.5-SNAPSHOT</version>
+	<version>1.6-SNAPSHOT</version>
 	<name>application-service</name>
 
 	<description>
